@@ -10,8 +10,8 @@ Euer Sven
 
 
 # Getting Started
-Einfach die Textdateien, welche im Ordner liegt, lesen. So simple ises. Pullt euch das Repository vom Auzure Server und erstellt nen neuen Ordner. in welchen ihr eure cpp legt.
-Und wenn ihr fertig seid, dann pusht das ganze wieder zum Server. Dann bekomm ich ne Meldung, um die Builds zusammenzufügen. Freue mich auf jeeden, der was ausprobiert :)
+Einfach die Textdateien, welche im Ordner liegt, lesen. So simple ises. Pullt euch das Repository von Github und erstellt nen neuen Ordner. in welchen ihr ein neues Projekt erstellt.
+Und wenn ihr fertig seid, dann pusht das ganze wieder zum Server. Dann bekomm ich ne Meldung, um die Builds zusammenzufügen. Freue mich auf jeden, der was ausprobiert :)
 
 
 # Contribute

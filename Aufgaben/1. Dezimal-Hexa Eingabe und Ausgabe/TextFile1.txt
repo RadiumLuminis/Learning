@@ -1,0 +1,5 @@
+Aufgabe:
+Schreiben Sie ein Konsolenprogramm, das ein Zeichen einliest und dieses Zeichen sowohl
+als Zeichen als auch als Dezimal- bzw. Hexadezimalwert ausgibt.
+Verwenden Sie sowohl scanf als auch cin für die Eingabe, bei der Ausgabe probieren Sie
+cout und printf aus.
