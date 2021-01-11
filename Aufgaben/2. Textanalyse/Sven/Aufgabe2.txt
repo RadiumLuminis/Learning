@@ -1,0 +1,3 @@
+Aufgabe:
+Erstellen Sie eine Statistik aller in einem Text vorkommenden Zeichen und geben Sie sie nach absteigender Häufigkeit auf der Konsole aus !
+Testen Sie Ihr Programm mit einer Analyse Ihres eigenen Lösungsvorschlages!
