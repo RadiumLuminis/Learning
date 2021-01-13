@@ -1,0 +1,3 @@
+Aufgabe:
+Schreiben Sie ein Programm, das dem Benutzer auffordert eine ganze Zahl einzugeben. Danach sollen alle möglichen Teiler dieser Zahl ausgegeben werden.
+Wenn keine ganze Zahl (Integer) eingegeben wurde soll eine Fehlermeldung erscheinen und der Benutzer wird noch einmal aufgefordert eine Zahl einzugeben.
