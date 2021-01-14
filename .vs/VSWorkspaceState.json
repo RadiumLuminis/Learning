@@ -2,11 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\Aufgaben",
-    "\\Aufgaben\\1. Dezimal-Hexa Eingabe und Ausgabe",
     "\\Aufgaben\\3. Ganzzahl-Teiler",
     "\\Aufgaben\\3. Ganzzahl-Teiler\\Sven",
-    "\\Aufgaben\\3. Ganzzahl-Teiler\\Sven\\Python"
+    "\\Aufgaben\\3. Ganzzahl-Teiler\\Sven\\Python",
+    "\\Aufgaben\\4. Multiplizieren, aber nur Addieren",
+    "\\Aufgaben\\4. Multiplizieren, aber nur Addieren\\Sven",
+    "\\Aufgaben\\4. Multiplizieren, aber nur Addieren\\Sven\\Python"
   ],
-  "SelectedNode": "\\Aufgaben\\3. Ganzzahl-Teiler\\Sven\\Python\\Teiler.py",
+  "SelectedNode": "\\Aufgaben\\4. Multiplizieren, aber nur Addieren\\Sven\\Python\\MultAdd.py",
   "PreviewInSolutionExplorer": false
 }

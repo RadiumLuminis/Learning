@@ -1,0 +1,3 @@
+Erstellen Sie ein Konsolenprogramm welches dem Benutzer auffordert 2 Zahlen einzugeben, diese sollen dann multipliziert werden, jedoch ist nur die Grundrechenart Addition erlaubt.
+
+Wenn einer der 2 Zahlen keine Zahl ist, soll eine Fehlermeldung ausgegeben werden und der Benutzer noch einmal aufgefordert werden eine Zahl einzugeben.
