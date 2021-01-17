@@ -1,0 +1,14 @@
+Hier der PseudoCode-Eintrag aus Wikipedia:
+
+bubbleSort(Array A)
+  n = A.size
+  do{
+    swapped = false
+    for (i=0; i<n-1; ++i){
+      if (A[i] > A[i+1]){
+        A.swap(i, i+1)
+        swapped = true
+      } // Ende if
+    } // Ende for
+    n = n-1
+  } while (swapped)

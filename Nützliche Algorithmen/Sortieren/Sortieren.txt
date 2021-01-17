@@ -1,0 +1,16 @@
+https://en.wikipedia.org/wiki/Sorting_algorithm
+
+Also, es scheint ne Menge verschiedener Algorithmen zu geben, die alle verschiedene Vor- und Nachteile haben. In diesem Unterordner möchte ich versuchen, 
+ein paar der Algorithmen zu verstehen und in Programmen umzusetzen
+
+Es gibt zu viele und die sind zu Komplex, um alle zu behandeln, aber zumindest mal die wichtigsten und bekanntesten sollten hier Platz finden :)
+
+Um einen Algorithmus zu testen, werden ich immer die selbe Folge aus 40 Zahlen nutzen:
+[7, 9, 22, 30, 1, 40, 8, 5, 12, 15, 19, 20, 33, 2, 28, 21, 17, 18, 10, 29, 5, 1, 40, 1, 12, 35, 20, 16, 32, 40, 5, 24, 34, 35, 1, 15, 24, 37, 13, 39]
+
+
+Während meiner Recherchen habe ich zudem einige wichtige Infos gelernt, die ich hier gerne kurz teilen würde:
+
+Python benutzt für seinen Algorithmus Timsort, ein Hybrid aus Mergesort und Insertionsort. Die Funktion heißt sort()
+C++ benutzt Introsort für seine sort()-Funktion, was ein Hybrid aus Quicksort, Heapsort und Insertionsort ist. Es gibt auch eine reine Quicksort-Funktion namens qsort()
+Java ist mit der Zeit gegangen und hat bei den andern abgeguckt. Java 6 hat Quicksort benutzt, Java7 benutzt wie Python Timsort durch Arrays.sort()
