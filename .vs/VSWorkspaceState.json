@@ -2,15 +2,18 @@
   "ExpandedNodes": [
     "",
     "\\Aufgaben",
+    "\\Aufgaben\\1. Dezimal-Hexa Eingabe und Ausgabe\\Sven",
+    "\\Aufgaben\\2. Textanalyse",
+    "\\Aufgaben\\2. Textanalyse\\Sven",
+    "\\Aufgaben\\2. Textanalyse\\Sven\\Python",
     "\\Aufgaben\\3. Ganzzahl-Teiler",
-    "\\Aufgaben\\4. Multiplizieren, aber nur Addieren",
-    "\\Aufgaben\\4. Multiplizieren, aber nur Addieren\\Sven",
-    "\\Aufgaben\\4. Multiplizieren, aber nur Addieren\\Sven\\Python",
+    "\\Aufgaben\\3. Ganzzahl-Teiler\\Sven",
+    "\\Aufgaben\\3. Ganzzahl-Teiler\\Sven\\Python",
     "\\Nützliche Algorithmen",
     "\\Nützliche Algorithmen\\Sortieren",
-    "\\Nützliche Algorithmen\\Sortieren\\Mergesort\\Python",
-    "\\Nützliche Algorithmen\\Sortieren\\Quicksort\\Python"
+    "\\Nützliche Algorithmen\\Sortieren\\Mergesort",
+    "\\Nützliche Algorithmen\\Sortieren\\Mergesort\\Python"
   ],
-  "SelectedNode": "\\Nützliche Algorithmen\\Sortieren\\Blocksort",
+  "SelectedNode": "\\Aufgaben\\2. Textanalyse\\Sven\\Python\\Textanalyse.py",
   "PreviewInSolutionExplorer": false
 }
