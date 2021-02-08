@@ -1,0 +1,3 @@
+Bei dieser Aufgabe geht es drum, eine dezimale Zahl in Byte umzuwandeln und umgekehrt, aber ohne Funktionen!
+
+Kommentar Sven: Ne Aufgabe von mir selbst erstellt, verdeutlicht wie Casting in Programmiersprachen funktioniert

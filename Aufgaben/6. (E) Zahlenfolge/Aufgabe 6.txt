@@ -1,0 +1,14 @@
+Es soll eine Zahlenfolge wiefolgt berechnet werden:
+Die nacheinander folgenden gleichen Zahlen werden gezählt und zusammen mit der Zahl ausgegeben.
+Aus der neu berechneten Zahlenfolge errechnet sich die nächste.
+
+Beispiel:
+1. Folge: 112
+2. Folge: 2112 (2 Einser und 1 Zweier)
+3. Folge: 122112 (1 Zweier, 2 Einser, und 1 Zweier)
+usw.
+
+Es soll nun mit dieser ersten Folge startend die 15. Folge berechnet und ausgegeben werden.
+Wenn mehrstellige Zahlen vorkommen sind diese gleich auszugeben. Bsp: 12 Einser = 121
+
+Kommentar Sven: Das Cool. Kurz und simpel zu lösen, nur Aufgabe muss erstmal verstanden werden :)

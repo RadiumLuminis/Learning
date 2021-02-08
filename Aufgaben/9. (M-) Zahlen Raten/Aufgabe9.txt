@@ -1,0 +1,36 @@
+Das zu programmierende Programm soll eine Zufallszahl (integer, der User soll nach dem Bereich gefragt werden) generieren.
+Der User soll diese erraten. Nach jedem Versuch soll der User darüber informiert werden, der wie vielte Versuch es war, ob er richtig oder falsch liegt, und wenn er falsch liegt ob die gesuchte Zahl grösser oder kleiner als die vom User eingegebene ist.
+
+Zusatz für Fortgeschrittene:
+Bei Falscheingaben (Buchstaben, Sonderzeichen, etz.) soll der User darüber informiert werden.
+Bei den Versuchen 10 soll eine führende Null mit ausgegeben werden (also statt 1,2,3 soll 01, 02 ,03 ausgegeben werden.)
+Bei der wiederholten Eingabe einer Zahl soll der User darüber informiert werden.
+Der User soll den Bereich in dem die Zufallszahl liegen soll, selbst definieren.
+Der User soll informiert werden, wenn sein Versuch ausserhalb des definierten Bereichs liegt.
+
+
+
+Beispiel einer Konsolenausgabe:
+
+Bitte die Untergrenze wählen: 20
+Bitte die Obergrenze wählen: 60
+
+Bitte erraten sie die gesuchte Zahl, sie befindet sich zwischen 20 und 60.
+
+Ihr 01. Versuch: 5
+Die eingegebene Zahl befindet sich ausserhalb des von ihnen definierten Bereich.
+
+Ihr 02. Versuch: halloooo
+Bitte nur Z A H L E N eingeben.
+
+Ihr 03. Versuch: 55
+Die gesuchte Zahl ist kleiner.
+
+Ihr 04. Versuch: 25
+Die gesuchte Zahl ist grösser.
+
+Ihr 05. Versuch: 55
+Mit dieser Zahl haben Sie es schon einmal versucht!
+
+Ihr 06. Versuch: 40
+Glückwunsch die von Ihnen eingegebene Zahl ( 40 ) stimmt mit der gesuchten Zahl überein.

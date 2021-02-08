@@ -2,4 +2,4 @@ Schreiben Sie ein Programm, welches 6 Zahlen zwischen 1 und 49 abfrägt. Danach s
 Natürlich darf eine Zahl nicht zweimal vorkommen.
 Dann soll ausgegeben werden nach wie vielen "Spielen" ein 6er erzielt wurde und wie hoch die Chance auf einen 3er, einen 4er und einen 5er war.
 
-Notiz: Die Aufgabe ist blöd. Mit einfachen Mitteln braucht das Programm ewig, um eine Ausgabe zu schaffen
+Kommentar Sven: Die Aufgabe ist blöd. Mit einfachen Mitteln braucht das Programm ewig, um eine Ausgabe zu schaffen
