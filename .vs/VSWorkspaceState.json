@@ -2,13 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Aufgaben",
-    "\\Aufgaben\\1.(E) Dezimal-Hexa Eingabe und Ausgabe",
-    "\\Aufgaben\\1.(E) Dezimal-Hexa Eingabe und Ausgabe\\Sven",
-    "\\Aufgaben\\1.(E) Dezimal-Hexa Eingabe und Ausgabe\\Sven\\C++",
-    "\\Aufgaben\\9. (M-) Zahlen Raten",
-    "\\Aufgaben\\9. (M-) Zahlen Raten\\Python",
-    "\\Nützliche Algorithmen"
+    "\\Aufgaben\\11. (S) Kombinationsanalyse",
+    "\\PySimpleGUI",
+    "\\PySimpleGUI\\DemoPrograms",
+    "\\PySimpleGUI\\First Steps"
   ],
-  "SelectedNode": "\\Aufgaben\\1.(E) Dezimal-Hexa Eingabe und Ausgabe\\Sven",
+  "SelectedNode": "\\PySimpleGUI\\DemoPrograms\\Menueoptionen.py",
   "PreviewInSolutionExplorer": false
 }

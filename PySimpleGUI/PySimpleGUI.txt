@@ -1,0 +1,3 @@
+Ein kleinerer Ordner, hier sammel ich erste Erfahrungen mit GUIs generell am Beispiel von PySimpleGUI
+Viele der Anwendungsbeispiele nehme ich von der folgenden Seite:
+https://realpython.com/pysimplegui-python/
