@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Aufgaben",
-    "\\Aufgaben\\11. (S) Kombinationsanalyse",
     "\\PySimpleGUI",
     "\\PySimpleGUI\\DemoPrograms",
     "\\PySimpleGUI\\First Steps"
   ],
-  "SelectedNode": "\\PySimpleGUI\\DemoPrograms\\Menueoptionen.py",
+  "SelectedNode": "\\PySimpleGUI\\DemoPrograms\\Rechner.py",
   "PreviewInSolutionExplorer": false
 }
