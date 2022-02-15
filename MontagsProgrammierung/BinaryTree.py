@@ -20,17 +20,45 @@ class Node:
             else:
                 self.__data = __data
 
-# Print the tree
-    def PrintTree(self):
-        if self.__left:
-            self.__left.PrintTree()
-        print(self.__data),
-        if self.__right:
-            self.__right.PrintTree()
+# Inorder traversal
+# Left -> Root -> Right
+    def InorderTraversal(self, root):
+        res = []
+        if root:
+            res = self.InorderTraversal(root.__left)
+            res.append(root.__data)
+            res = res + self.InorderTraversal(root.__right)
+        return res
+
+# Preorder traversal
+# Root -> Left ->Right
+    def PreorderTraversal(self, root):
+        res = []
+        if root:
+            res.append(root.__data)
+            res = res + self.PreorderTraversal(root.__left)
+            res = res + self.PreorderTraversal(root.__right)
+        return res
+
+# Postorder traversal
+# Left -> Right -> Root 
+    def PostorderTraversal(self, root):
+        res = []
+        if root:
+            res = self.PostorderTraversal(root.__left)
+            res = res + self.PostorderTraversal(root.__right)
+            res.append(root.__data)
+        return res
 
 # Use the insert method to add nodes
-root = Node(12)
-root.insert(6)
+root = Node(27)
 root.insert(14)
-root.insert(3)
-root.PrintTree()
+root.insert(35)
+root.insert(10)
+root.insert(19)
+root.insert(31)
+root.insert(42)
+
+print(root.InorderTraversal(root))
+print(root.PreorderTraversal(root))
+print(root.PostorderTraversal(root))
