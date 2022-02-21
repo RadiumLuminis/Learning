@@ -6,50 +6,38 @@ using System.Threading.Tasks;
 
 namespace BinaryTree
 {
-    class Node
-    {
-        public int value;
-        public Node left, right;
-
-        public Node(int item)
-        {
-            value = item;
-            left = right = null;
-        }
-
-    }
-
-    public class Forest
-    {
-        private Node root = null;
-        public Forest()
-        {
-            root = null;
-        }
-
-        public void insert(int key)
-        {
-            root = insertRec(root, key);
-        }
-
-        private Node insertRec(Node root, int key)
-        {
-            if (root == null)
-            {
-                root = new Node(key);
-                return root;
-            }
-
-
-        }
-    }
-
-
-
     class Program
     {
+
         static void Main(string[] args)
         {
+
+            Forest gump = new Forest();
+
+
+
+            /* Let us create following BST (Binary Sorted Tree)
+
+                  50
+               /      \
+              30      70
+             /  \     /  \
+            20    40    60    80                            */
+
+            gump.insert(50);
+            gump.insert(30);
+            gump.insert(20);
+            gump.insert(40);
+            gump.insert(70);
+            gump.insert(60);
+            gump.insert(80);
+
+            gump.outputTree();
+
+            gump.deleteValue(50);
+
+            gump.outputTree();
+
         }
     }
 }
