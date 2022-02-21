@@ -1,10 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PySimpleGUI",
-    "\\PySimpleGUI\\DemoPrograms",
-    "\\PySimpleGUI\\First Steps"
+    "\\Aufgaben",
+    "\\Aufgaben\\11. (S) Kombinationsanalyse",
+    "\\Aufgaben\\3. (E) Ganzzahl-Teiler",
+    "\\Aufgaben\\3. (E) Ganzzahl-Teiler\\Sven",
+    "\\Aufgaben\\3. (E) Ganzzahl-Teiler\\Sven\\Python",
+    "\\Aufgaben\\4. (E) Multiplizieren, aber nur Addieren",
+    "\\Aufgaben\\4. (E) Multiplizieren, aber nur Addieren\\Sven",
+    "\\Aufgaben\\4. (E) Multiplizieren, aber nur Addieren\\Sven\\Python",
+    "\\Aufgaben\\6. (E) Zahlenfolge"
   ],
-  "SelectedNode": "\\PySimpleGUI\\DemoPrograms\\Rechner.py",
   "PreviewInSolutionExplorer": false
 }
